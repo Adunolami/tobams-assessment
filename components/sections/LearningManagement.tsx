@@ -21,7 +21,7 @@ export default function LearningManagement() {
           <div className="order-2 lg:order-1">
             <div className="relative mx-auto lg:mx-0 w-[280px] h-[280px] sm:w-[350px] sm:h-[350px] md:w-[400px] md:h-[400px] lg:w-[556px] lg:h-[568px] rounded-full overflow-hidden shadow-2xl">
               <Image
-                src="/images/learning.png"
+                src="/images/Learning.png"
                 alt={lmsData.imageAlt}
                 fill
                 className="object-cover"

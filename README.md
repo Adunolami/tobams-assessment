@@ -4,6 +4,7 @@
 A pixel-perfect, fully responsive landing page for Tobams Group's Training & Development services. Built as a technical assessment for the Frontend Developer Intern position.
 
 **Live Demo:** [View Live](https://tobams-assessment-lemon.vercel.app/)
+Figma link : https://www.figma.com/design/wuqCLkK1feTgB6xxSRRwZu/Frontend-Intern-Assessment?node-id=0-1&p=f&t=qxnAKp4Ael8QtLYz-0 
 
 ---
 
@@ -32,3 +33,5 @@ npm run dev
 
 4. Open your browser
 Visit http://localhost:3000
+
+Refrence Credit : Deepseek Assistance Agent 
